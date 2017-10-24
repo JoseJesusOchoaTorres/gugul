@@ -1,0 +1,16 @@
+{
+  "uploadOnSave": false,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "gtt.dst.ibm.com",
+  "port": "22",
+  "target": "/home/gttstage.projects/project@devworks/public_html/octojose",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "octojose",
+  "password": "@jJOT9393",
+  "watch": [],
+  "transport": "scp"
+}
